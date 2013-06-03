@@ -3,7 +3,7 @@
   "title": "images-ready",
   "description": "imagesReady waits until the size of certain images is known, then tells you the maximum width, maximum height, and maximum ratio of height to width of all the images. Great for slideshows.",
   "keywords": ["slideshow", "image", "images", "apostrophe", "punkave"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "P'unk Avenue",
     "url": "http://punkave.com/"
@@ -23,7 +23,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/punkave/jquery-images-ready/LICENSE"
+      "url": "https://github.com/punkave/jquery-images-ready/LICENSE.md"
     }
   ],
   "bugs": "https://github.com/punkave/jquery-images-ready/issues",
