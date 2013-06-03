@@ -1,9 +1,9 @@
 {
   "name": "images-ready",
-  "title": "images-ready",
-  "description": "imagesReady waits until the size of certain images is known, then tells you the maximum width, maximum height, and maximum ratio of height to width of all the images. Great for slideshows.",
+  "title": "Images Ready",
+  "description": "Images Ready waits until the size of certain images is known, then tells you the maximum width, maximum height, and maximum ratio of height to width of all the images. Great for slideshows.",
   "keywords": ["slideshow", "image", "images", "apostrophe", "punkave"],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "P'unk Avenue",
     "url": "http://punkave.com/"
