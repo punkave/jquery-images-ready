@@ -28,7 +28,7 @@ You need jQuery, of course. `jquery-images-ready` is actively supported with jQu
 
 ### Changelog
 
-0.1.3: removed dependency on Underscore. Thanks to Kay Stenschke.
+0.1.4: removed dependency on Underscore. Thanks to Kay Stenschke.
 
 ## Support
 
