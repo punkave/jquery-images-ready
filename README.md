@@ -26,6 +26,10 @@ You need jQuery, of course. `jquery-images-ready` is actively supported with jQu
 
 `jquery-images-ready` was created at [P'unk Avenue](http://punkave.com) for use in Apostrophe, an open-source content management system built on node.js. If you like `jquery-images-ready` you should definitely [check out apostrophenow.org](http://apostrophenow.org). Also be sure to visit us on [github](http://github.com/punkave).
 
+### Changelog
+
+0.1.3: removed dependency on Underscore. Thanks to Kay Stenschke.
+
 ## Support
 
 Feel free to open issues on [github](http://github.com/punkave/jquery-images-ready).
